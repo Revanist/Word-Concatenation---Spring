@@ -1,0 +1,21 @@
+.textBox {
+    display: flex;
+    align-items: center;
+  }
+  
+  .textBox input[type="text"] {
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    margin-right: 8px;
+  }
+  
+  .textBox button {
+    padding: 8px;
+    border-radius: 4px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
